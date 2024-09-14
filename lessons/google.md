@@ -1,10 +1,10 @@
 # Навчитися користуватися Google Drive
 
-1. Встанови і відкрий застосунок Google Drive. Якщо треба використай свій Google акаунт(той що `@boiko.com.ua` чи інший).
+1. Встанови та відкрий застосунок Google Drive (Google Диск). Ось посилання на нього:
   - [Для Android](https://play.google.com/store/apps/details?id=com.google.android.apps.docs&pcampaignid=web_share)
   - [Для iPhone чи iPad](https://apps.apple.com/us/app/google-drive/id507874739)
-  - Якщо не можешь встановити [зайди на сайт https://drive.google.com/](https://drive.google.com/)
-1. На Google Drive створи папку (чи директорію) `My photos`.
+  - Якщо не маєш прав встановити 
+1. На Google Drive створи папку (Folder) `My photos`.
 1. Зроби 3 свої фотографії (спокійну, радісну, сумну)
 1. Завантажи їх до папки `My photos` на Google Drive
 1. Поділися (відкрий доступ) на редагування папкою `My photos` зі вчителем (ось моя пошта `grinko.m@boiko.com.ua`)
