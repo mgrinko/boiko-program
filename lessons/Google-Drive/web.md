@@ -13,7 +13,7 @@
     - ![](./Google-Drive-Web/Select%20multiple%20files.png)
     - ![](./Google-Drive-Web/Files%20uploaded.png)
     
-4. Поділися (відкрий доступ) на редагування папкою `My photos` зі вчителем (ось моя пошта `grinko.m@boiko.com.ua`)
+4. Поділися (відкрий доступ) на редагування папкою `My photos` зі вчителем (спитай адресу вчителя)
     - ![](./Google-Drive-Web/Share%20folder.png)
     - ![](./Google-Drive-Web/Enter%20email%20to%20share%20with.png)
     - ![](./Google-Drive-Web/Share%20as%20Editor%20and%20Send.png)

@@ -18,7 +18,7 @@
     - ![Press a photo](./Google-Drive-Android/select%20recent.png)
     - ![Select multiple photos](./Google-Drive-Android/multiple%20files%20selected.png)
     
-5. Поділися (відкрий доступ) на редагування папкою `My photos` зі вчителем (ось моя пошта `grinko.m@boiko.com.ua`)
+5. Поділися (відкрий доступ) на редагування папкою `My photos` зі вчителем (спитай адресу вчителя)
     - ![](./Google-Drive-Android/folder%20context%20menu.png)
     - ![](./Google-Drive-Android/Folder%20share.png)
     - ![](./Google-Drive-Android/Enter%20email%20to%20share.png)
