@@ -3,7 +3,7 @@
 1. Встанови та відкрий застосунок Google Drive (Google Диск). Ось посилання на нього:
     - [Для Android](https://play.google.com/store/apps/details?id=com.google.android.apps.docs&pcampaignid=web_share)
     - [Для iPhone чи iPad](https://apps.apple.com/us/app/google-drive/id507874739)
-    - Якщо не маєш прав встановлювати програми переходь до [інструкції для браузера](./desktop.md)
+    - Якщо не маєш прав встановлювати програми переходь до [інструкції для браузера](./web.md)
 2. На Google Drive створи папку (Folder) з назвою `My photos` та відкрий її:
     - ![Create new](./Google-Drive-Android/Create%20new.png)
     - ![Create folder](./Google-Drive-Android/create%20folder.png)
