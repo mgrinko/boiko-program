@@ -3,7 +3,7 @@
 1. Встанови та відкрий застосунок Google Drive (Google Диск). Ось посилання на нього:
   - [Для Android](https://play.google.com/store/apps/details?id=com.google.android.apps.docs&pcampaignid=web_share)
   - [Для iPhone чи iPad](https://apps.apple.com/us/app/google-drive/id507874739)
-  - Якщо не маєш прав встановити 
+  - Якщо не маєш прав встановлювати програми або в тебе ноутбук то відкрий посилання https://drive.google.com/
 1. На Google Drive створи папку (Folder) `My photos`.
 1. Зроби 3 свої фотографії (спокійну, радісну, сумну)
 1. Завантажи їх до папки `My photos` на Google Drive
