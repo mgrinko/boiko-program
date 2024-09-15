@@ -14,7 +14,6 @@
       ![Open folder](./Google-Drive-Android/Open%20folder.png)
     </details>
 
-
 4. Завантаж свої фотки до папки `My photos` на Google Drive:
    <details>
       <summary>Клікни сюди щоб побачити скріншоти</summary>
