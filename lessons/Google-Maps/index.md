@@ -46,5 +46,5 @@
     <details>
       <summary>Клікни сюди щоб побачити скріншоти</summary>
 
-      <video src="./screenshots/Drag-stop.mov">
+      <img src="./screenshots/teacher-address.png.png" alt="">
     </details>
