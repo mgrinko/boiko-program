@@ -19,5 +19,4 @@
      <img src="./Web%20attach%20files.png" alt="">
    </details>
 
-1. Також прикріпи PDF-файл з цими трьома фотками створений за допомогою [сервісу ILovePDF](../PDF/index.md)
 1. Надішли листа.
