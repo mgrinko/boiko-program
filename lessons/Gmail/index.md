@@ -11,12 +11,12 @@
    <details>
      <summary>Скріншот на телефоні чи планшеті</summary>
 
-     <img src="./Android%20Attachment.jpg" alt="">
+     <img style="max-width: 400px" src="./Android%20Attachment.jpg" alt="">
    </details>
    <details>
      <summary>Скріншот у браузері</summary>
 
-     <img src="./Web%20attach%20files.png" alt="">
+     <img style="max-width: 400px" src="./Web%20attach%20files.png" alt="">
    </details>
 
 1. Надішли листа.
